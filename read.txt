@@ -1,8 +1,5 @@
 Git i a version control system.
 Git is free software.
 Git.
-<<<<<<< HEAD
 GIT bug resolution
-=======
 dev分支对read.txt文件进行修改。
->>>>>>> dev
